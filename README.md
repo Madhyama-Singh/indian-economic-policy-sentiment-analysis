@@ -28,14 +28,14 @@ The project processes more than 200,000 financial news headlines and filters pol
 
 # 🚀 Key Features
 
-✔ Financial sentiment analysis using FinBERT
-✔ BERTopic-based topic modeling
-✔ Daily sentiment index construction
-✔ Event study around major economic events
-✔ Interactive Streamlit dashboard
-✔ Interactive headline sentiment prediction
-✔ Headline vs full-text sentiment comparison
-✔ Multi-model comparison using FinBERT, VADER, and Flair
+✅ Financial sentiment analysis using FinBERT  
+✅ BERTopic-based topic modeling  
+✅ Daily sentiment index construction  
+✅ Event study around major economic events  
+✅ Interactive Streamlit dashboard  
+✅ Headline sentiment prediction  
+✅ Headline vs full-text sentiment comparison  
+✅ Multi-model comparison using FinBERT, VADER, and Flair
 
 ---
 
